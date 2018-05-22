@@ -1,0 +1,8 @@
+1.New Project--->Spring Initializr--->Next
+2.在Type右边选择Gradle Project(...)--->Next
+3.选择Web--->勾选Web
+4.选择Template Engines--->勾选Thymeleaf--->Next--->Finish--->OK--->New Window--->OK
+5.在此处http://www.mycodes.net/154/9651.htm下载后台管理系统模板文件
+6.解包后，将一级目录文件放入src\main\resources\templates中，其他文件夹放入src\main\resources\static中
+7.点击运行后Console中出现Started SpringbootWebApplication in时表示项目已正常运行
+8.在浏览器中输入http://localhost:8080/就可正常打开我们的模板文件了
